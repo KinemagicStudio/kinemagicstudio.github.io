@@ -21,6 +21,8 @@ sidebar_position: 1
     - Spout
     - Syphon
 - カメラ制御
+    - 複数カメラの切り替え（最大8台）
+    - 縦型と横型の切り替え
 - ポストエフェクト
     - 被写界深度（Depth Of Field）
     - ブルーム（Bloom）
