@@ -20,15 +20,15 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="https://kinemagicstudio.booth.pm/">
-            ダウンロード（Windows）
+            to="https://kinemagicstudio.booth.pm/items/7434629">
+            ダウンロード（Windows版）
           </Link>
           &nbsp;&nbsp;
           &nbsp;&nbsp;
           <Link
             className="button button--secondary button--lg"
-            to="https://kinemagicstudio.booth.pm/">
-            ダウンロード（Mac）
+            to="https://kinemagicstudio.booth.pm/items/7437133">
+            ダウンロード（Mac版）
           </Link>
         </div>
       </div>
