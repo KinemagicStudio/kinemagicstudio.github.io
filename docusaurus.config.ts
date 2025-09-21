@@ -111,6 +111,11 @@ const config: Config = {
           label: 'ライセンス情報',
           position: 'left',
         },
+        {
+          href: 'https://github.com/KinemagicStudio',
+          label: 'GitHub',
+          position: 'right',
+        },
       ],
     },
     footer: {
