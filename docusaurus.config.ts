@@ -95,7 +95,7 @@ const config: Config = {
           position: 'left',
         },
         {
-          to: 'docs/terms/terms-of-use-ja',
+          to: 'docs/terms-of-use',
           label: '利用規約',
           position: 'left',
         },
