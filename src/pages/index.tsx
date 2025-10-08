@@ -62,7 +62,7 @@ export default function Home(): ReactNode {
       <main>
         <section className={styles.videoSection}>
           <div className="container">
-            <YoutubeEmbed embedId="sKyuwVir27k" />
+            <YoutubeEmbed embedId="oFNyeJX8ymQ" />
           </div>
         </section>
         {/* <HomepageFeatures /> */}
