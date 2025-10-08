@@ -90,6 +90,12 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
+          sidebarId: 'documentsSidebar',
+          label: 'ドキュメント',
+          position: 'left',
+        },
+        {
+          type: 'docSidebar',
           sidebarId: 'releaseNotesSidebar',
           label: '更新履歴',
           position: 'left',

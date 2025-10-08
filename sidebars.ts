@@ -29,6 +29,17 @@ const sidebars: SidebarsConfig = {
   ],
    */
 
+  documentsSidebar: [
+    {
+      type: "category",
+      label: "その他",
+      collapsed: true,
+      items: [
+        'misc/create-vrm-with-liltoon',
+      ],
+    },
+  ],
+
   releaseNotesSidebar: [
     {
       type: "category",
